@@ -1,24 +1,7 @@
-# vue-weather-app
+# ClimaVue
 
-## Project setup
-```
-npm install
-```
+### Link: https://vue-weather-athos.netlify.app/
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+#### Um projetinho simples desenvolvido para aprender o framework Vue.
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
